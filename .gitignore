@@ -1,0 +1,8 @@
+venv/
+**pycache**/
+*.pyc
+.env
+mlruns/
+models/*.pkl
+data/*.csv
+.ipynb_checkpoints/
