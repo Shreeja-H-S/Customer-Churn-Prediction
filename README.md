@@ -213,12 +213,19 @@ Swagger
 http://localhost:8000/docs
 ```
 
+## 🚀 Live Demo
+
+**API:**  
+https://customer-churn-prediction-cche.onrender.com
+
+**Swagger UI:**  
+https://customer-churn-prediction-cche.onrender.com/docs
 ---
+
 
 ## Future Improvements
 
 - Hyperparameter tuning
-- Cloud deployment
 - CI/CD pipeline
 - Model monitoring
 - Authentication for API
